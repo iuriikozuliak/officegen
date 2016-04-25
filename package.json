@@ -48,7 +48,7 @@
     "startpoint": "x",
     "stream-buffers": "x",
     "underscore": "~1.4.4",
-    "xmlbuilder": "^8.2.2",
+    "xmlbuilder": "^2.4.5"
     "jszip": "^2.0.0"
   },
   "author": {
